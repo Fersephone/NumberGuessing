@@ -1,8 +1,8 @@
-##Number Guessing Game
+#Number Guessing Game
 
 Welcome to the Number Guessing Game! This simple console-based game allows you to guess a randomly generated number between 1 and 10.
 
-##How to Play
+#How to Play
 
 Run the program.
 A random number between 1 and 10 will be generated.
